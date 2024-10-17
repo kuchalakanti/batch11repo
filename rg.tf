@@ -4,3 +4,5 @@ location = "eastus"
 tags = "krishna"
 
 }
+tags = "krishnavcube"
+}
